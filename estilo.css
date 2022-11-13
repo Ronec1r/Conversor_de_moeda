@@ -1,0 +1,53 @@
+body{
+    background-color: #202022;
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;   
+}
+
+svg{
+    color: aliceblue;
+}
+
+.icon-coin{
+    color: black;
+}
+
+#valor{
+    border-radius: 15px;
+    max-width: 55px;
+}
+
+.btn{
+    border-radius: 15px;
+    background-color: goldenrod;
+}
+
+.container{
+    text-align: center;
+    margin-top: 5%;
+    background-color: #878787;
+    border-radius: 15px;
+}
+
+.resultado{
+    background-color: goldenrod;
+    margin: 5px;
+    padding: 2px;
+    border-radius: 15px;
+}
+
+.dados{
+    margin-top: 25px;
+    border-radius: 15px;
+    background-color: goldenrod;
+}
+
+.titulo{
+    margin-top: 25px;
+    border-radius: 15px;
+    background-color: goldenrod;
+}
